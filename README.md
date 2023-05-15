@@ -2,18 +2,15 @@
 
 <div align="center">
     <div align="center">
-        <img src="assets/cooltext435532213459924.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-        <img src="assets/comic-sans-ms-1684123846-removebg-preview.png" style="max-width: 50%;" alt="Welcome to my Github Profile" />
+        <img src="assets/cooltext435532213459924.gif" alt="Welcome to my Github Profile" />
+        <img src="assets/comic-sans-ms-1684123846-removebg-preview.png" alt="Welcome to my Github Profile" />
     </div>
     <!-- Footer -->
     <!-- Huge thanks to https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g -->
-    </br>
-    </br>
-<h4 style='color:#0FFF50;;'>You are visitor #</h4>
+
+<h4>You are visitor #</h4>
 
 ![Visitor Count](https://profile-counter.glitch.me/shaddyjr/count.svg)
-</br>
-</br>
 
 <div>
 <!-- Social -->
