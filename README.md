@@ -17,7 +17,7 @@
 <!-- Huge thanks to https://shields.io/ -->
 <a href="https://www.linkedin.com/in/mahdi-shadkam-farrokhi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-mahdi--shadkam--farrokhi-informational"></a>
 <a href="https://mahdis.pw" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-mahdis.pw-brightgreen"></a>
-<a href="https://www.youtube.com/channel/UCErSNiDZV4rJCNB8NrDGREA" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCErSNiDZV4rJCNB8NrDGREA?style=plastic"></a>
+<a href="https://www.youtube.com/channel/UCErSNiDZV4rJCNB8NrDGREA" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCErSNiDZV4rJCNB8NrDGREA?style=plastic&label=YouTube%20Subscribers"></a>
 </div>
 
 </div>
